@@ -1,6 +1,6 @@
-# Heading
-## Heading
-### Heading
+# Hi, I'm JIJO JOSE
+## Mechanical Engineering Student
+### SJCET Palai
 
 
 *This is me*
