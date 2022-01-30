@@ -37,7 +37,7 @@
   <a href="https://www.linkedin.com/in/jijo-jose-4b9253226/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Linkedin"/>
   </a>
-  <a href="https://instagram.com/jijo_jose_2002">
+  <a href="https://www.instagram.com/_jijo_jose_017/">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
   </a>
   <a href="https://twitter.com/mjijojose">
