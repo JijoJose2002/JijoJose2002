@@ -3,20 +3,23 @@
 ### Mechanical Engineering Student at SJCET Palai
 
 ----
-
-
-
+<!--
 <div align="center">
-  <img src="https://media.giphy.com/media/iI5RW5RFzqm95ANpIo/giphy.gif" width="600" height="500"/>
+  <img src="https://media.giphy.com/media/iI5RW5RFzqm95ANpIo/giphy.gif" width="800" height="700"/>
 </div>
+ -->
+
 
 
 # About Me
-### I'm a Sophomore Mechanical engineer at SJCET,Palai. Apart from mechanical engineering, i like coding especially python and HTML. so I learned it myself and I learned C from my college. As a mechanical engineer I like both design and manufacturing. MY domain of intrest never shrink into technology, I like travelling, reading and more importantly farming.
-----
+*  ### I'm a Sophomore Mechanical engineer at SJCET, Palai.
+*  ### Apart from mechanical engineering, I like coding especially python and HTML, So I taught them myself and I learned C from College. 
+*  ### As a mechanical engineer, I like CAD, CFD, Manufacturing. 
+*  ### My domain of interest never shrinks to technology, I like travelling, reading, and farming.
 
+<!--
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jijojose2002&theme=dark&background=000000)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jijojose2002&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 ------
 ### Developing Knowledge in :
@@ -27,12 +30,24 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
+----
+
+### Find me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/jijo-jose-4b9253226/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Linkedin"/>
   </a>
-  <a href="https://twitter.com/Mjijojose">
-    <img src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png" alt="Twitter Badge"/>
+  <a href="https://instagram.com/jijo_jose_2002">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/mjijojose">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100036799051142">
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Faceboot"/>
+  </a>
+  <a href="https://github.com/JijoJose2002">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="Github"/>
   </a>
 </div>
 
@@ -41,13 +56,3 @@
 
 
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-
-----
-
-<!-- Add font awesome icons -->
-<a href="https://www.facebook.com/profile.php?id=100036799051142" class="fa fa-facebook"></a>
-<a href="https://twitter.com/Mjijojose" class="fa fa-twitter"></a>
-<a href="https://instagram.com/jijo_jose_2002" class="fa fa-instagram"></a>
-<a href="https://www.linkedin.com/in/jijo-jose-4b9253226" class="fa fa-linkedin"></a>
