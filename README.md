@@ -1,8 +1,11 @@
 
-# Hi, I'm JIJO JOSE
-## Mechanical Engineering Student
-### SJCET Palai
+# Hi, I'm Jijo
+### Mechanical Engineering Student at SJCET Palai
+
 ----
+
+
+
 <div align="center">
   <img src="https://media.giphy.com/media/iI5RW5RFzqm95ANpIo/giphy.gif" width="600" height="500"/>
 </div>
@@ -14,6 +17,9 @@
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jijojose2002&theme=dark&background=000000)](https://git.io/streak-stats)
+
+------
+### Developing Knowledge in :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -29,3 +35,19 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+
+
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+----
+
+<!-- Add font awesome icons -->
+<a href="https://www.facebook.com/profile.php?id=100036799051142" class="fa fa-facebook"></a>
+<a href="https://twitter.com/Mjijojose" class="fa fa-twitter"></a>
+<a href="https://instagram.com/jijo_jose_2002" class="fa fa-instagram"></a>
+<a href="https://www.linkedin.com/in/jijo-jose-4b9253226" class="fa fa-linkedin"></a>
