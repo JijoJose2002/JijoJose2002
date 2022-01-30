@@ -21,7 +21,7 @@ This is me
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jijo-jose-4b9253226/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BgEOG896gS7Wu3V01ifPb6g%3D%3D)
 * A
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jijojose2002&theme=dark&background=000000)](https://git.io/streak-stats)
 
 * B
 
