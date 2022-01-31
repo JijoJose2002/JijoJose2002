@@ -1,3 +1,8 @@
+<img src="https://img.icons8.com/external-becris-flat-becris/250/000000/external-engineering-literary-genres-becris-flat-becris.png" class="center"/>
+
+
+
+
 
 # Hi, I'm Jijo
 ### Mechanical Engineering Student at SJCET Palai
@@ -17,9 +22,18 @@
 *  ### As a mechanical engineer, I like CAD, CFD, Manufacturing. 
 *  ### My domain of interest never shrinks to technology, I like travelling, reading, and farming.
 
+----
+
 <!--
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jijojose2002&theme=dark&background=000000)](https://git.io/streak-stats) -->
+ ### Expert in
+ <div id="badges">
+  <img src="https://img.icons8.com/color/96/000000/solidworks.png" alt="Solidworks"/>
+  <img src="https://img.icons8.com/color/96/000000/autodesk-fusion-360.png"/>
+  <img src="https://img.icons8.com/fluency/96/000000/autocad.png"/>
+  
+ 
 
 ------
 ### Developing Knowledge in :
