@@ -5,7 +5,7 @@
 
 
 # Hi, I'm Jijo
-### Mechanical Engineering Student at SJCET Palai
+### CFD Project Engineer
 
 ----
 <!--
@@ -17,9 +17,9 @@
 
 
 # About Me
-*  ### I'm a Sophomore Mechanical engineer at SJCET, Palai.
-*  ### Apart from mechanical engineering, I like coding especially python and HTML, So I taught them myself and I learned C from College. 
-*  ### As a mechanical engineer, I like CAD, CFD, Manufacturing. 
+*  ### Graduated in  Mechanical engineering from SJCET, Palai.
+*  ### Apart from mechanical engineering, I like coding especially python, So I taught it myself and I learned C from College. 
+*  ### As a mechanical engineer, I do Computational Fluid Dynamics simulation. 
 *  ### My domain of interest never shrinks to technology, I like travelling, reading, and farming.
 
 ----
